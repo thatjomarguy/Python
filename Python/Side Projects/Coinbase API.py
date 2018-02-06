@@ -13,8 +13,8 @@ from coinbase.wallet.client import Client
 
 def main():
 
-    apiKey = "PX2fmy32cWHRZs4c"
-    apiSecret = "NC3rc0lo2QShxy1puOUVx8UvR6oos8fh"
+    apiKey = "XXXXXXXXXXXXXX"
+    apiSecret = "XXXXXXXXXXXXXXXXXX"
 
     client = Client(apiKey, apiSecret)
     time = client.get_time()
