@@ -1,8 +1,8 @@
 # Python
-Python Files - From Engineering Programming II 
+Python Files - From Engineering Programming II and side projects
 
-# Includes
-Some Pulling from Resting API, JSON files, and some basic Python codes from classes
+# File Preview
+Pulling from Resting API, JSON files, and some basic Python codes from classes
 * FlightSearch
 * List Functions
 * Python Dictionary
