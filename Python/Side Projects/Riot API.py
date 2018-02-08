@@ -13,7 +13,7 @@ def requestMastery(region, ID, APIKey):
 def main():
     region = str('na1')
     summonerName = str(input('Enter Summoner Name: '))
-    APIKey = str('RGAPI-2b346912-db62-466e-aa7f-da1c2701b9bf')
+    APIKey = str('RXXXXXXXXXXXXXXXXXXXXXXXbf')
 
     if summonerName == '-1':
         return 0
